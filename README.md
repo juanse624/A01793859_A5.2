@@ -9,7 +9,7 @@
 
 Se ha realizado un cambio de nombre diferente al sugerido para que cumpla con esta recomendación
 
-convertNumbers.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
+**convertNumbers.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)**
 
 Lo cual se soluciona poniendo un _ para separar las palabras como el ejemplo de computeSales a compute_sales,Para la ejecución realizarlo de la siguiente manera:
 
